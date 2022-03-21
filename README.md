@@ -1,3 +1,3 @@
 # mini-javascript-projects
 
-There ara some basic js projects for learning purpose 
+There are some basic js projects for learning purposes 
